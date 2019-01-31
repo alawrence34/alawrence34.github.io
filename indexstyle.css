@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			body{background-color: DarkBlue; font-family: 'Oswald', sans-serif;}
+			
+			h1{background-color: blue; text-align: center; color: DarkOrange;}
+			
+			h2{color: Orange; text-align: center; background-color:purple; border-left: 10px solid orange; border-right: 10px solid orange }
+			
+			p{font-family: arial; font-size: 20px; color: DarkBlue; background-color: DarkOrange; text-align: center;}
+			
+			h1{ font-weight: bold;}
+			nav a{ display: inline-block }
+			nav a{ border: 2px solid black }
+			nav a{ padding: 10px; margin: 5px; background: blue; color: DarkOrange; }
+			a:hover { color: red}
+			
+		</style>
+	</head>
+</html>
